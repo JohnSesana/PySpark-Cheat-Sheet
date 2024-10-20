@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c03ee96d-846e-42a6-bf2d-879f917d340c" alt="Spark Logo" width="350" />
+</div>
+
 # PySpark Cheat Sheets Repository
 
 ### Table of Contents
@@ -29,6 +33,8 @@ Spark's primary advantages:
 - **Wide Range of Applications**: It supports various applications, including batch processing, real-time stream processing, machine learning, and graph processing.
 
 ### Key Components of Apache Spark:
+
+![image](https://github.com/user-attachments/assets/389c0656-8a9e-437e-9c4e-b1c5df43ee6a)
 
 1. **Spark Core**: The foundation for all other Spark components, providing in-memory computing and distributed execution.
 2. **Spark SQL**: Allows querying of structured data via SQL or DataFrame API.
